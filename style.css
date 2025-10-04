@@ -154,7 +154,6 @@ body{
     flex-wrap: wrap;
     gap: 20px;
     margin-top: 1500px;
-    cursor: pointer;
 }
 #cards h3{
     padding-top: 60px;
